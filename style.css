@@ -1,0 +1,59 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 10rem;
+    border: 1px solid #6C757D;
+    border-radius: 5px;
+    
+    
+}
+
+.mb-3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.form-label{
+    font-size: 20px;
+}
+#emailHelp{
+    color: #6C757D;
+}
+input{
+    height: 35px;
+    width: 24rem;
+    font-size: 20px;
+    
+    border: 1.5px solid #6C757D;
+    border-radius: 5px;
+}
+
+.form-check-label{
+font-size: 20px;
+
+}
+#exampleCheck1{
+    height: 15px;
+    width: 20px;
+    margin-top: 2rem;
+    margin-left: 2.5rem;   
+}
+button{
+    margin-left: 2.4rem;
+    margin-top: 2rem;
+    height: 2.5rem;
+    width: 5rem;
+    background-color: #0D6EFD;
+    border-radius: 8px;
+    color: white;
+    border: white;
+}
